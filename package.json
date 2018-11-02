@@ -1,6 +1,6 @@
 {
   "name": "vuex-management-project",
-  "description": "A vuex management project,
+  "description": "A vuex management project",
   "author": "Daley Mottley <daley.mottley@hotmail.com>",
   "private": true,
   "scripts": {
