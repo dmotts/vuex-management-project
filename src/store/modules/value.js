@@ -1,1 +1,1 @@
-// Value parts could be stored here
+// Could hold value vuex parts
